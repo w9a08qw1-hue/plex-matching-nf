@@ -1,0 +1,12 @@
+{
+  "name": "plex-matching",
+  "version": "1.0.0",
+  "description": "MetaTube for Plex",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "metatube-server": "latest"
+  }
+}
