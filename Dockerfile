@@ -1,4 +1,4 @@
-FROM ghcr.io/metatube-community/metatube-server:dev
+FROM ghcr.io/metatube-community/metatube-server:latest
 
 # Northflank 포트 설정
 ENV PORT=8080
